@@ -17,12 +17,13 @@ The SCR V-I characteristic consists of forward blocking, forward conduction and 
 4. PIN DIAGRAM / SYMBOL
 SCR terminals:  Anode (A)   |   Gate (G)   |   Cathode (K)
 5. CIRCUIT CONNECTION
+6. <img width="1892" height="425" alt="Screenshot 2026-11-06 093016" src="https://github.com/user-attachments/assets/76ef3387-0c46-4791-85fa-58bafa0b9aca" />
 
-6. 
 The main anode-cathode circuit consists of the regulated DC supply, a 1 kΩ series resistor, an ammeter and the SCR. A voltmeter is connected across the SCR to measure VAK. A separate regulated supply is connected through a 1 kΩ resistor to the gate, with a gate ammeter to measure IG.
  
 Reference circuit diagram from the supplied lab record.
 6. CHARACTERISTIC CURVE
+<img width="1900" height="415" alt="Screenshot 2026-11-06 093003" src="https://github.com/user-attachments/assets/61069c78-566a-4863-837c-4f31bb0a8ae9" />
 
 
 
